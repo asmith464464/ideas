@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Research | Ideas</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="Research" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Quantitative strategy development" />
+<meta property="og:description" content="Quantitative strategy development" />
+<link rel="canonical" href="https://github.com/ideas/" />
+<meta property="og:url" content="https://github.com/ideas/" />
+<meta property="og:site_name" content="Ideas" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Research" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"Quantitative strategy development","headline":"Research","name":"Ideas","url":"https://github.com/ideas/"}</script>
+<!-- End Jekyll SEO tag -->
+
+  <title>Research — Ideas</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/ideas/assets/css/style.css">
+</head>
+<body>
+  <nav class="site-nav">
+    <div class="container">
+      <a href="/ideas/">Ideas</a>
+      <a href="/ideas/about/">About</a>
+    </div>
+  </nav>
+  <main class="container">
+    <div class="tag-filter" id="tag-filter"></div>
+
+<div id="idea-list">
+  
+    
+  
+</div>
+
+
+
+<script>
+(function () {
+  var cards = Array.from(document.querySelectorAll('.idea-card'));
+  var tagSet = {};
+  cards.forEach(function (card) {
+    (card.dataset.tags || '').split(' ').forEach(function (t) {
+      if (t) tagSet[t] = true;
+    });
+  });
+
+  var active = null;
+  var container = document.getElementById('tag-filter');
+
+  Object.keys(tagSet).sort().forEach(function (tag) {
+    var btn = document.createElement('button');
+    btn.textContent = tag;
+    btn.className = 'tag';
+    btn.addEventListener('click', function () {
+      if (active === tag) {
+        active = null;
+        cards.forEach(function (c) { c.style.display = ''; });
+        document.querySelectorAll('.tag').forEach(function (b) { b.classList.remove('active'); });
+      } else {
+        active = tag;
+        cards.forEach(function (c) {
+          c.style.display = (c.dataset.tags || '').split(' ').indexOf(tag) !== -1 ? '' : 'none';
+        });
+        document.querySelectorAll('.tag').forEach(function (b) {
+          b.classList.toggle('active', b.textContent === tag);
+        });
+      }
+    });
+    container.appendChild(btn);
+  });
+}());
+</script>
+
+  </main>
+</body>
+</html>
