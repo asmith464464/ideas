@@ -7,9 +7,10 @@ import plotly.io as pio
 
 
 _LAYOUT = dict(
-    template='plotly_dark',
+    template='plotly_white',
     paper_bgcolor='rgba(0,0,0,0)',
     plot_bgcolor='rgba(0,0,0,0)',
+    font=dict(color='#1a1a2e'),
 )
 
 
@@ -29,12 +30,12 @@ def _equity_curve_chart(
     fig.add_trace(go.Scatter(
         x=strat_cum.index, y=strat_cum.values,
         name=config.get('name', 'Strategy'),
-        line=dict(color='#4ecdc4', width=2),
+        line=dict(color='#1a56db', width=2),
     ))
     fig.add_trace(go.Scatter(
         x=bench_cum.index, y=bench_cum.values,
         name=config.get('benchmark', 'SPY'),
-        line=dict(color='#888899', width=1.5, dash='dot'),
+        line=dict(color='#9ca3af', width=1.5, dash='dot'),
     ))
     fig.update_layout(
         **_LAYOUT,
@@ -54,8 +55,8 @@ def _drawdown_chart(returns: pd.Series) -> go.Figure:
     fig.add_trace(go.Scatter(
         x=drawdown.index, y=drawdown.values,
         fill='tozeroy',
-        fillcolor='rgba(255,107,107,0.3)',
-        line=dict(color='#ff6b6b', width=1),
+        fillcolor='rgba(220,38,38,0.15)',
+        line=dict(color='#dc2626', width=1),
         name='Drawdown',
     ))
     fig.update_layout(
@@ -73,10 +74,10 @@ def _rolling_sharpe_chart(returns: pd.Series, window: int = 63) -> go.Figure:
     fig = go.Figure()
     fig.add_trace(go.Scatter(
         x=rs.index, y=rs.values,
-        line=dict(color='#4ecdc4', width=1.5),
+        line=dict(color='#1a56db', width=1.5),
         name=f'{window}-day Rolling Sharpe',
     ))
-    fig.add_hline(y=0, line=dict(color='#888899', width=1, dash='dash'))
+    fig.add_hline(y=0, line=dict(color='#9ca3af', width=1, dash='dash'))
     fig.update_layout(
         **_LAYOUT,
         yaxis_title='Sharpe Ratio',
@@ -102,13 +103,13 @@ def _returns_dist_chart(returns: pd.Series) -> go.Figure:
         x=returns.values,
         nbinsx=50,
         name='Daily Returns',
-        marker_color='#4ecdc4',
-        opacity=0.7,
+        marker_color='#1a56db',
+        opacity=0.6,
     ))
     fig.add_trace(go.Scatter(
         x=x_range, y=normal_scaled,
         name='Normal',
-        line=dict(color='#ff6b6b', width=2),
+        line=dict(color='#dc2626', width=2),
     ))
     fig.update_layout(
         **_LAYOUT,
