@@ -1,0 +1,32 @@
+id: '001'
+name: 'Time-series momentum'
+slug: '001-time-series-momentum'
+version: '0.1.0'
+status: draft
+
+tags:
+  - momentum
+  - equities
+  - daily
+
+universe:
+  - SPY
+  - QQQ
+  - IWM
+  - EFA
+  - EEM
+  - GLD
+  - TLT
+  - LQD
+
+date_range:
+  start: '2010-01-01'
+  end:   '2024-12-31'
+
+benchmark: SPY
+risk_free_rate: 0.0
+
+lookback_days: 252
+skip_days: 21
+rebalance: monthly
+transaction_cost_bps: 5

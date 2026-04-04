@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<div class="tag-filter" id="tag-filter"></div>
+
+<div id="idea-list">
+  {% for post in site.posts %}
+    {% if post.status == 'published' %}
+      {% include idea_card.html post=post %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+{{ content }}
+
+<script>
+(function () {
+  var cards = Array.from(document.querySelectorAll('.idea-card'));
+  var tagSet = {};
+  cards.forEach(function (card) {
+    (card.dataset.tags || '').split(' ').forEach(function (t) {
+      if (t) tagSet[t] = true;
+    });
+  });
+
+  var active = null;
+  var container = document.getElementById('tag-filter');
+
+  Object.keys(tagSet).sort().forEach(function (tag) {
+    var btn = document.createElement('button');
+    btn.textContent = tag;
+    btn.className = 'tag';
+    btn.addEventListener('click', function () {
+      if (active === tag) {
+        active = null;
+        cards.forEach(function (c) { c.style.display = ''; });
+        document.querySelectorAll('.tag').forEach(function (b) { b.classList.remove('active'); });
+      } else {
+        active = tag;
+        cards.forEach(function (c) {
+          c.style.display = (c.dataset.tags || '').split(' ').indexOf(tag) !== -1 ? '' : 'none';
+        });
+        document.querySelectorAll('.tag').forEach(function (b) {
+          b.classList.toggle('active', b.textContent === tag);
+        });
+      }
+    });
+    container.appendChild(btn);
+  });
+}());
+</script>

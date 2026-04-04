@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<article>
+  <header class="report-header">
+    <div class="report-title">{{ page.title }}</div>
+    <div class="report-dateline">
+      <span class="badge badge-{{ page.status }}">{{ page.status }}</span>
+      &nbsp;
+      Idea {{ page.idea_id }} · v{{ page.version }}
+      &nbsp;·&nbsp;
+      {{ page.date_range_start }} — {{ page.date_range_end }}
+    </div>
+    <div style="margin-top: 0.5rem;">
+      {% for tag in page.tags %}
+        <span class="tag">{{ tag }}</span>
+      {% endfor %}
+    </div>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  <nav class="post-nav" style="margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--border); font-family: var(--font-mono); font-size: 0.8rem; display: flex; justify-content: space-between;">
+    {% if page.previous %}
+      <a href="{{ site.baseurl }}{{ page.previous.url }}" style="color: var(--muted); text-decoration: none;">← {{ page.previous.title }}</a>
+    {% else %}
+      <span></span>
+    {% endif %}
+    {% if page.next %}
+      <a href="{{ site.baseurl }}{{ page.next.url }}" style="color: var(--muted); text-decoration: none;">{{ page.next.title }} →</a>
+    {% else %}
+      <span></span>
+    {% endif %}
+  </nav>
+</article>

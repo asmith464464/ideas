@@ -1,0 +1,14 @@
+data/cache/
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+.eggs/
+.claude/*
+spec.md

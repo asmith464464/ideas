@@ -1,0 +1,27 @@
+title: "Ideas"
+description: "Quantitative strategy development"
+baseurl: "/ideas"
+url: "https://github.com"
+
+theme: minima
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - docs/
+  - research/
+  - data/
+  - preprocessor/
+  - tests/
+  - build.py
+  - run_research.py
+  - requirements.txt
+  - "*.py"
+  - Gemfile.lock
