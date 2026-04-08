@@ -1,0 +1,29 @@
+id: '004'
+name: 'Wiki Trends Crypto Attention Strategy'
+slug: '004-wiki-trends-crypto'
+version: '0.2.0'
+status: published
+
+tags:
+  - crypto
+  - momentum
+  - long-only
+  - monthly
+
+universe: dynamic
+universe_size: 50 
+
+date_range:
+  start: '2020-01-01'
+  end:   '2025-12-31'
+
+benchmark: BTC-USD
+risk_free_rate: 2.0
+
+rebalance: monthly
+transaction_cost_bps: 10
+
+# v2 parameters
+hold_n: 3       
+z_threshold: 2.5  
+beta: 1.0     

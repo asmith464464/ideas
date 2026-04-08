@@ -1,0 +1,24 @@
+id: '002'
+name: 'Momentum Packet L/S with Vol Scaling and Signal Gate'
+slug: '002-momentum-ls'
+version: '0.1.0'
+status: published
+
+tags:
+  - momentum
+  - equities
+  - long-short
+  - daily
+
+universe:
+  - FTSE 100
+
+date_range:
+  start: '2013-01-01'
+  end:   '2024-12-31'
+
+benchmark: ^FTSE
+risk_free_rate: 2.0
+
+rebalance: monthly
+transaction_cost_bps: 10

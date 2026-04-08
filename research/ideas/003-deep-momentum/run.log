@@ -1,0 +1,1320 @@
+Fetching price data...
+
+1 Failed download:
+['ACA.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ACL.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['AFG.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: AGFX.L"}}}
+
+1 Failed download:
+['AGFX.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AGM.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AGR.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AIM.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['AIRT.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AISP.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AJG.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ALLG.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['ALS.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ALTA.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ALUR.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AMBI.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AMC.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AMD.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['AMO.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AMTE.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ANC.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['AND.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['ANO.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ANPG.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ANX.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['APC.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['APE.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['APGN.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['APH.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['APLC.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['APP.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['APQ.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['APR.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['APS.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['APSE.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ARCH.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['ARDN.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ARE.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ARG.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ARIP.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ASCL.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ASI.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ASO.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ASP.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ASR.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['ASST.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ATA.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ATGN.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ATH.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['ATMA.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ATO.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ATTM.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AUE.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['AUG.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AUK.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AUO.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AUP.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AUR.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['AUS.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AUT.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['AVAC.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AVB.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AVC.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['AVI.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['AVIN.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AVN.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AVO.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AVOC.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AVS.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['AVT.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['AVU.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AVV.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['AWE.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31) (Yahoo error = "No data found, symbol may be delisted")')
+
+1 Failed download:
+['AWI.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['AXI.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BABS.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BCSA.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BEW.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BHR.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['BHY.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['BKI.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BKT.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BLA.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BLK.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['BLL.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['BLTG.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BLV.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BMN.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BNA.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BNK.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['BNS.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['BNT.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['BOA.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BOC.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['BOIL.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BOL.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['BOM.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BORR.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BOT.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BOTB.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BOX.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BPS.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BPW.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['BRA.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BREA.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BRI.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['BRIT.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['BRL.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BRM.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['BRMS.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BRN.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BRP.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['BRSA.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BRW.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BSL.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BSP.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['BSX.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BTC.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31) (Yahoo error = "Data doesn\'t exist for startDate = 1262304000, endDate = 1735603200")')
+
+1 Failed download:
+['BTI.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BTRG.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BTRS.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BVIC.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['BVS.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['CAMB.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['CEY.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['CLL.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['CLP.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['CMC.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['COPL.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['CPC.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['CPTN.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['CQS.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['CTAG.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['CTR.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['CVS.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['DARK.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['DCG.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['DEED.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['DEMG.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['DGB.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['DHG.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['DNL.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['DOR.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['DPH.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ECSC.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['EMIS.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['EMLN.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['EMN.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ENG.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['ENV.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['EPIC.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['EQN.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ERA.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ERM.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['EXEL.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['FBH.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['FDI.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['FFX.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['FIF.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['FJV.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['FKL.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['FLP.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['FLT.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['FLX.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['FOGL.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['FORE.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['GFC.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['GFT.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['GHE.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['GLIF.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['GLJ.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['GLL.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['GLO.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['GLP.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['GMB.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['GMVF.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['GOCO.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['GOOD.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['GPOR.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['GRS.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['GTI.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['GVC.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['HAT.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['HBOS.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['HDIV.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['HEAR.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['HGM.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['HIP.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['HMO.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['HOL.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['HPS.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['HRN.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['HRTX.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['HUMN.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['HYD.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['IAE.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['ICI.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['ICM.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['IDH.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['IDP.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['IEP.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['IHR.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ILX.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['IMP.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['INFA.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['INM.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['INS.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['IRM.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['IRS.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['IRV.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ITD.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['JMI.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['JNK.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['JRG.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['KHD.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['KING.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['LAM.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['LEN.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['LEP.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['LGN.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['LGO.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['LGR.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['LTG.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['LXB.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['LXI.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['MAN.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['MAV.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['MCLS.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['MCX.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['MDC.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['MED.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['MGC.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['MHN.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['MIL.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['MKTX.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['MLV.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['MMH.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['MMIP.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['MNB.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['MNP.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['MOG.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['MPA.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['MRL.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['MRS.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['MSM.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['MTR.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['MXC.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['MXCT.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['NCT.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['NEX.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['NFC.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['NGS.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['NHC.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['NHP.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['NII.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['NINI.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['NMC.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['NOGH.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['NORI.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['NRM.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['OCA.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['OCN.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['OCT.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ODX.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['OEX.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['OHL.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['OIL.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['OIR.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['OMC.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['OPG.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ORM.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['OSI.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['OTC.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['OTP.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['PARF.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['PBX.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['PEAK.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['PGL.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['PHD.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['PIC.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['PIG.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['PKG.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['PLG.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['PLI.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['PLND.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['PLT.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['POG.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['POM.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['PORK.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['PORR.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['POST.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['PPB.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['PPHE.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['PPN.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['PRG.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['PRL.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['PRSR.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['PRT.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['PSI.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['PSP.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['PTY.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['PUB.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['PUR.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['QCCO.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['QRT.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['RDI.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['RDW.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['RED.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['RET.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['RETO.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['RGS.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['RHM.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['RMG.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['RMP.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['RNS.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ROG.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['RPT.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['RRE.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['RSA.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['RTN.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['RUL.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['RUR.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['RVU.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['SAS.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['SAT.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['SCS.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['SDL.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['SEFI.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['SEG.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['SER.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['SFF.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['SGI.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['SGM.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['SHB.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['SHR.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['SICT.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['SIG.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['SIM.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['SIV.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['SKS.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['SLI.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['SLL.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['SLT.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['SMD.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['SMI.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['SMP.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['SMS.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['SNN.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['SPE.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['SPN.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['SPT.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['SRX.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['SSP.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['STO.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['STR.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['STU.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['STV.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['SUT.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['SVE.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['SVI.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['SWJ.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['SXS.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['TALG.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['TAR.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['TCC.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['TCN.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['TED.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['TELF.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['TEN.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['TGS.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['TII.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['TMI.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31) (Yahoo error = "Data doesn\'t exist for startDate = 1262304000, endDate = 1735603200")')
+
+1 Failed download:
+['TMP.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['TNI.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['TNT.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['TOF.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['TOP.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['TOPG.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['TPG.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['TPI.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['TPN.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['TPVG.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['TQL.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['TRC.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['TRM.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['TRS.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['TSG.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['TSL.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['TUI.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['TVC.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['TVS.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['UAI.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['UBI.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['UGO.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['UKCM.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['ULS.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['UMC.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31) (Yahoo error = "Data doesn\'t exist for startDate = 1262304000, endDate = 1735603200")')
+
+1 Failed download:
+['UNI.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['UQA.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['URA.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['URB.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['URI.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['UTV.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['VAR.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['VDP.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['VEC.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['VELA.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['VGAS.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['VGM.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['VIR.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['VIS.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['VOC.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['VPC.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['VRS.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['WAG.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['WEB.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['WEN.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['WEX.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['WFRD.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['WIG.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['WIN.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['WKC.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['WMH.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['WNC.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['WNS.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['WPS.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['WPT.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['WRT.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['WTM.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['XAAR.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['XEL.L']: YFPricesMissingError('possibly delisted; no price data found  (1d 2010-01-01 -> 2024-12-31)')
+
+1 Failed download:
+['XPD.L']: YFTzMissingError('possibly delisted; no timezone found')
+
+1 Failed download:
+['YELP.L']: YFTzMissingError('possibly delisted; no timezone found')
+  Skipped (fetch failed): 432 tickers
+Fetching market cap snapshot...
+  Market cap available: 420/437
+
+=== BACKTEST: DNN vs MOMENTUM vs BLENDED (long-only, 10bps TC) ===
+  Fetching sector data...
+    sectors: 50/437
+    sectors: 100/437
+    sectors: 150/437
+    sectors: 200/437
+    sectors: 250/437
+    sectors: 300/437
+    sectors: 350/437
+    sectors: 400/437
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: WHR.L"}}}
+  Sectors: 11 unique  370/437 tickers
+
+--- Universe: FTSE 350 (165 tickers) ---
+    training model 1/5...
+    training model 2/5...
+    training model 3/5...
+    training model 4/5...
