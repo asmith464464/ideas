@@ -1,7 +1,7 @@
-# Research notes — 004 Google Trends Multi-Crypto Attention Strategy
+# Research notes — 004 Wiki Trends Multi-Crypto Attention Strategy
 
 Working notes updated as exploration progresses.
-Run: `python research/ideas/004-google-trends-crypto/explore.py [section]`
+Run: `python research/ideas/004-wiki-trends-crypto/explore.py [section]`
 
 Sections: `universe`, `data`, `features`, `signals`, `backtest`, `v2`, `all`
 Add `--fetch-trends` to `data` to pull Trends for uncached coins.
@@ -12,7 +12,7 @@ Add `--fetch-trends` to `data` to pull Trends for uncached coins.
 
 Long-only portfolio selected from a **59-coin hardcoded universe** of historically
 significant cryptos (including collapsed coins: LUNA, FTT, CEL, etc.). Ranked
-monthly by attention score derived from Google Trends.
+monthly by attention score derived from Wiki Trends.
 
 Signal:
 - **Attention momentum**: 4-week % change in composite Trends score (clipped ±5)
