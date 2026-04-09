@@ -179,6 +179,20 @@ def get_universe() -> list[dict]:
     return UNIVERSE
 
 
+# ---------------------------------------------------------------------------
+# Cluster definitions — five attention-regime peer groups.
+# Used by explore.py and generate_report.py.
+# ---------------------------------------------------------------------------
+
+CLUSTERS: dict[str, list[str]] = {
+    "old_guard":  ["BTC", "LTC", "BCH", "ETC", "XLM", "DASH", "ZEC"],
+    "L1_new":     ["ETH", "SOL", "AVAX", "ATOM", "DOT", "NEAR", "ALGO", "TRX"],
+    "DeFi":       ["LINK", "UNI", "MKR"],
+    "meme":       ["DOGE", "SHIB"],
+    "event_risk": ["LUNA", "FTT"],
+}
+
+
 def filter_available(
     symbols: list[str],
     prices,
