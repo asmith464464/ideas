@@ -1,0 +1,30 @@
+id: '005'
+name: 'Hurst-Filtered Global Pair Reversion'
+slug: '005-hurst-pairs-reversion'
+version: '1.0.0'
+status: published
+
+tags:
+  - pairs
+  - mean-reversion
+  - equities
+  - hourly
+
+universe:
+  - UK MEGA (FTSE 100 ex-Financials/Mining)
+  - AU MEGA (ASX 200 ex-Banks)
+  - CA MEGA (TSX ex-Banks)
+
+date_range:
+  period: 730d
+  interval: 1h
+  train_bars: 500
+
+entry_z: 2.5
+exit_z: 0.2
+hurst_threshold: 0.44
+correlation_threshold: 0.85
+rolling_window: 150
+vol_window: 100
+risk_free_rate: 2.0
+transaction_cost_bps: 0.5
