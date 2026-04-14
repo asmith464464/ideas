@@ -231,8 +231,9 @@ tags:
   - mean-reversion
   - equities
   - intraday
-date_range_period: "730d"
-date_range_interval: "1h"
+date_range_start: "{date_start}"
+date_range_end: "{date_end}"
+math: true
 ---
 
 ## Overview
@@ -375,9 +376,12 @@ Regions:           UK_MEGA, AU_MEGA, CA_MEGA
 """
 
 
-def write_post(results: dict, pair_df: pd.DataFrame, region_df: pd.DataFrame) -> None:
+def write_post(results: dict, pair_df: pd.DataFrame, region_df: pd.DataFrame,
+               date_start: str, date_end: str) -> None:
     r = region_df.set_index("Region")
     content = POST_TEMPLATE.format(
+        date_start       = date_start,
+        date_end         = date_end,
         uk_sharpe        = float(r.loc["UK_MEGA", "Sharpe"]),
         au_sharpe        = float(r.loc["AU_MEGA", "Sharpe"]),
         ca_sharpe        = float(r.loc["CA_MEGA", "Sharpe"]),
@@ -385,7 +389,7 @@ def write_post(results: dict, pair_df: pd.DataFrame, region_df: pd.DataFrame) ->
         pair_attribution = _embed("pair_attribution", "Pair Sharpe attribution sorted by performance, coloured by region"),
         hurst_scatter    = _embed("hurst_scatter",    "Hurst exponent vs Sharpe — lower H confirms stronger mean-reversion"),
         region_summary   = _embed("region_summary",   "Region Sharpe ratio and net return"),
-        sigma_journey    = _embed("sigma_journey",    "Sharpe at 3.0σ vs 2.5σ — adverse selection visible at higher threshold"),
+        sigma_journey    = _embed("sigma_journey",    "Sharpe at 3.0 sigma vs 2.5 sigma — adverse selection visible at higher threshold"),
     )
     POST.write_text(content, encoding="utf-8")
     print(f"Post written: {POST}")
@@ -394,6 +398,10 @@ def write_post(results: dict, pair_df: pd.DataFrame, region_df: pd.DataFrame) ->
 # ── main ──────────────────────────────────────────────────────────────────────
 
 def main():
+    from datetime import date, timedelta
+    date_end   = date.today().isoformat()
+    date_start = (date.today() - timedelta(days=730)).isoformat()
+
     print("Running engine at 2.5 sigma (final config)...")
     pair_df_25, region_df_25 = CuratedAlphaEngine(entry_z=2.5).run()
 
@@ -410,7 +418,7 @@ def main():
     results = save_results(pair_df_25, region_df_25)
 
     print("Writing post...")
-    write_post(results, pair_df_25, region_df_25)
+    write_post(results, pair_df_25, region_df_25, date_start, date_end)
 
     print(f"\nDone.")
     print(f"  Charts:  {CHARTS}")
