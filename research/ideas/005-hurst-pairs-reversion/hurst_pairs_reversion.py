@@ -30,12 +30,13 @@ UNIVERSES = {
 }
 
 class CuratedAlphaEngine:
-    def __init__(self, entry_z=2.5, rf_rate=0.02):
+    def __init__(self, entry_z=2.5, rf_rate=0.02, end_date=None):
         self.entry_z = entry_z
         self.exit_z = 0.2
         self.rf_rate = rf_rate
         self.t_cost = 0.0005
         self.ann_factor = np.sqrt(252 * 8.5)
+        self.end_date = end_date  # "YYYY-MM-DD" to lock the data window
 
     def get_hurst(self, series):
         lags = range(2, 20)
@@ -51,6 +52,9 @@ class CuratedAlphaEngine:
                 logging.info(f"AUDIT: Analyzing curated {region} at {self.entry_z} sigma...")
             tickers = list(set([t for s in sector_map.values() for t in s]))
             data = yf.download(tickers, period="730d", interval="1h", progress=False)["Close"].ffill().dropna(axis=1)
+            if self.end_date:
+                cutoff = pd.Timestamp(self.end_date, tz="UTC") + pd.Timedelta(days=1)
+                data = data[data.index < cutoff]
             
             train, test = data.iloc[:500], data.iloc[500:]
             test_rets = test.pct_change()
