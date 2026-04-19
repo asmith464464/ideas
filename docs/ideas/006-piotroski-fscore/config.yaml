@@ -1,0 +1,28 @@
+id: '006'
+name: 'Piotroski F-Score'
+slug: '006-piotroski-fscore'
+version: '1.0.0'
+status: published
+published_date: '2026-04-19'
+
+tags:
+  - factor-investing
+  - value
+  - small-cap
+  - fundamental
+  - equities
+
+universe:
+  - IWM (Russell 2000, top 300 by weight)
+  - Excludes Financials and Real Estate
+
+date_range:
+  start: '2012-01-01'
+  end: '2026-04-18'
+
+benchmark: IWM
+risk_free_rate: 0.0
+pb_value_bucket: 0.30
+entry_lag_days: 2
+signal_expiry_days: 375
+min_adv_usd: 1000000

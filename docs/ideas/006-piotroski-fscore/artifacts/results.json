@@ -1,0 +1,13 @@
+{
+  "ann_return_pct": 35.9,
+  "ann_volatility_pct": 26.92,
+  "sharpe_ratio": 1.333,
+  "max_drawdown_pct": -53.89,
+  "total_return_pct": 9578.84,
+  "iwm_ann_return_pct": 12.45,
+  "iwm_sharpe": 0.585,
+  "spy_ann_return_pct": 15.06,
+  "spy_sharpe": 0.904,
+  "years_active": 14,
+  "years_beat_iwm": 13
+}
