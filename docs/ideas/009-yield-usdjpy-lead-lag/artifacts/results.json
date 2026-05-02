@@ -1,0 +1,22 @@
+{
+  "sharpe_is": 10.99,
+  "win_rate_is_pct": 66.4,
+  "pnl_is_bps": 426.0,
+  "n_trades_is": 434,
+  "profit_factor_is": 2.73,
+  "max_drawdown_is_pct": -0.21,
+  "sharpe_oos_apriori": 7.31,
+  "sharpe_oos_opt": 12.04,
+  "win_rate_oos_pct": 66.7,
+  "n_trades_oos": 138,
+  "pnl_oos_bps": 213.0,
+  "sharpe_wf_apriori": 11.38,
+  "sharpe_ecn_retail": 1.62,
+  "sharpe_prime": 7.81,
+  "bond_z_opt": 2.0,
+  "exit_mins_opt": 2,
+  "bond_z_apriori": 2.5,
+  "exit_mins_apriori": 3,
+  "session_start_eet": 14,
+  "session_end_eet": 22
+}

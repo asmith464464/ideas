@@ -1,6 +1,6 @@
 ---
 layout: idea
-title: "Piotroski F-Score: When the Signal Isn't the Alpha"
+title: "Piotroski F-Score"
 slug: "006-piotroski-fscore"
 idea_id: "006"
 version: "1.0.0"

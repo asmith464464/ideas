@@ -1,0 +1,15 @@
+{
+  "ann_return_pct": 8.24,
+  "ann_volatility_pct": 7.31,
+  "sharpe_ratio": 1.127,
+  "max_drawdown_pct": -16.98,
+  "bench_6040_ann_return_pct": 6.22,
+  "bench_6040_sharpe": 0.694,
+  "bench_6040_max_dd_pct": -55.01,
+  "bench_eq_ann_return_pct": 6.8,
+  "bench_eq_sharpe": 0.46,
+  "bench_eq_max_dd_pct": -76.8,
+  "years_active": 127,
+  "years_beat_6040": 68,
+  "high_inflation_pct": 30.6
+}

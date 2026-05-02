@@ -143,3 +143,6 @@ When developing a new idea:
 | 004 | 004-wiki-trends-crypto | published |
 | 005 | 005-hurst-pairs-reversion | published |
 | 006 | 006-piotroski-fscore | published |
+| 007 | 007-heston-vol-strategy | draft |
+| 008 | 008-cape-regime-momentum | draft |
+| 009 | 009-yield-usdjpy-lead-lag | draft |

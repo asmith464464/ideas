@@ -1,0 +1,17 @@
+{
+  "ann_return_pct": 13.27,
+  "ann_volatility_pct": 15.78,
+  "sharpe_ratio": 0.758,
+  "max_drawdown_pct": -22.77,
+  "bh_ann_return_pct": 12.32,
+  "bh_sharpe_ratio": 0.717,
+  "bh_max_drawdown_pct": -42.09,
+  "avg_weight_invested_pct": 88.0,
+  "tc_drag_ann_pct": 0.144,
+  "n_pairs": 3,
+  "rv_window_days": 20,
+  "rho_window_days": 60,
+  "rebal_step_days": 21,
+  "start_date": "2008-08-27",
+  "end_date": "2026-04-22"
+}

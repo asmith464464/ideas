@@ -1,0 +1,24 @@
+id: '008'
+name: 'CAPE Regime + Momentum'
+slug: '008-cape-regime-momentum'
+version: '1.0.0'
+status: draft
+published_date: '2026-04-22'
+
+tags:
+  - macro
+  - valuation
+  - momentum
+  - asset-allocation
+  - equities
+  - bonds
+
+universe:
+  - US equities (S&P Composite real total return, Shiller data)
+  - US long bonds (Shiller monthly bond return series)
+
+date_range:
+  start: '1900-01-01'
+  end: '2026-03-01'
+
+benchmark: 60/40 (equity / bond)

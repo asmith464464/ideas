@@ -1,0 +1,25 @@
+id: '009'
+name: 'The 10Y Sniper: Yield / USD-JPY Lead-Lag'
+slug: '009-yield-usdjpy-lead-lag'
+version: '1.0.0'
+status: draft
+published_date: '2026-05-01'
+
+tags:
+  - microstructure
+  - fx
+  - fixed-income
+  - intraday
+  - lead-lag
+
+date_range:
+  start: '2025-10-01'
+  end: '2026-03-31'
+
+bond_z_apriori: 2.5
+exit_mins_apriori: 3
+bond_z_opt: 2.0
+exit_mins_opt: 2
+session: '14:00-22:00 EET'
+instrument: USD/JPY
+signal_source: US T-Bond futures (3-tick bars)

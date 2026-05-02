@@ -13,3 +13,6 @@ __pycache__/
 .eggs/
 .claude/*
 spec.md
+*.csv
+*.xls
+CLAUDE.md
