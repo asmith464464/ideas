@@ -4,7 +4,7 @@ title: "The 10Y Sniper: Yield / USD-JPY Lead-Lag"
 slug: "009-yield-usdjpy-lead-lag"
 idea_id: "009"
 version: "1.0.0"
-status: "draft"
+status: "published"
 tags:
   - microstructure
   - fx

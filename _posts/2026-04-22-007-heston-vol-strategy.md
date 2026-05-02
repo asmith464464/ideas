@@ -4,7 +4,7 @@ title: "Heston Volatility Risk Premium"
 slug: "007-heston-vol-strategy"
 idea_id: "007"
 version: "1.0.0"
-status: "draft"
+status: "published"
 tags:
   - volatility
   - stochastic-models

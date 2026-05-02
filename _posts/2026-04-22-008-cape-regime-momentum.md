@@ -4,7 +4,7 @@ title: "CAPE Regime + Momentum"
 slug: "008-cape-regime-momentum"
 idea_id: "008"
 version: "1.0.0"
-status: "draft"
+status: "published"
 tags:
   - macro
   - valuation
